@@ -14,38 +14,38 @@ you need an official subscription of [SAP support portal](https://launchpad.supp
 
 Once downloaded and unpacked you should place them on the proper folder /Native/Linux32
 
-for Linux32 and 64 bits
+<h4> for Linux32 and 64 bits </h4>
 
-libicudata.so.50
-libicudecnumber.so
-libicui18n.so.50
-libicuuc.so.50
-libsapnwrfc.so
-libsapucum.so
-licenses.txt
-release_notes.txt
+- libicudata.so.50
+- libicudecnumber.so
+- libicui18n.so.50
+- libicuuc.so.50
+- libsapnwrfc.so
+- libsapucum.so
+- licenses.txt
+- release_notes.txt
 
-for Win32/64
+<h4> for Win32/64 </h4>
 
-icudt50.dll
-icuin50.dll
-icuuc50.dll
-libicudecnumber.dll
-libsapucum.dll
-licenses.txt
-release_notes.txt
-sapnwrfc.dll
+- icudt50.dll
+- icuin50.dll
+- icuuc50.dll
+- libicudecnumber.dll
+- libsapucum.dll
+- licenses.txt
+- release_notes.txt
+- sapnwrfc.dll
 
-for OSX
+<h4> for OSX </h4>
 
-libicudata.50.dylib
-libicudecnumber.dylib
-libicui18n.50.dylib
-libicuuc.50.dylib
-libsapnwrfc.dylib
-libsapucum.dylib
-licenses.txt
-release_notes.txt
+- libicudata.50.dylib
+- libicudecnumber.dylib
+- libicui18n.50.dylib
+- libicuuc.50.dylib
+- libsapnwrfc.dylib
+- libsapucum.dylib
+- licenses.txt
+- release_notes.txt
 
 <h3> API Reference </h3>
 
